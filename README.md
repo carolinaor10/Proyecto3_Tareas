@@ -1,2 +1,4 @@
 # java-spring
-Proyecto spring base para cursos de proyecto
+Proyecto spring del curso Proyecto 3, Carolina Ortiz Román
+
+Incluye: Tarea #1
