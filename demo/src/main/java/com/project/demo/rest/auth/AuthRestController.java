@@ -9,6 +9,8 @@ import com.project.demo.logic.entity.user.LoginResponse;
 import com.project.demo.logic.entity.user.User;
 import com.project.demo.logic.entity.user.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.dao.DataIntegrityViolationException;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -71,5 +73,6 @@ public class AuthRestController {
         User savedUser = userRepository.save(user);
         return ResponseEntity.ok(savedUser);
     }
+
 
 }
