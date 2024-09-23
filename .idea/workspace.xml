@@ -5,18 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="971c3bcb-1ccd-4471-807f-7a876bcfd091" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Insomnia_2024-09-22.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/project/demo/logic/entity/category/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/project/demo/logic/entity/category/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/project/demo/logic/entity/product/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/project/demo/logic/entity/product/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/project/demo/rest/category/categoryRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/project/demo/rest/product/productRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/project/demo/logic/entity/auth/ApplicationConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/project/demo/logic/entity/auth/ApplicationConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/project/demo/logic/entity/rol/DefaultUserSeeder.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/project/demo/logic/entity/rol/DefaultUserSeeder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/project/demo/logic/entity/user/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/project/demo/logic/entity/user/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/project/demo/rest/auth/AuthRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/project/demo/rest/auth/AuthRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/project/demo/rest/user/userRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/project/demo/rest/user/userRestController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727034664959</updated>
-      <workItem from="1727034665957" duration="18322000" />
+      <workItem from="1727034665957" duration="18553000" />
     </task>
     <servers />
   </component>
